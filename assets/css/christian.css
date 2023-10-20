@@ -1,0 +1,11 @@
+.altezza-massima{
+    height: 50rem !important;
+    background-size: cover !important;
+    box-sizing: border-box !important;
+}
+
+.grandezza-logo-mobile{
+    margin-left: 35%;
+    height: 4 rem;
+    width: 5rem;
+}
