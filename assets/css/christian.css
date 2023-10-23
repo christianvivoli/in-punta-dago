@@ -9,3 +9,26 @@
     height: 4 rem;
     width: 5rem;
 }
+
+
+.face{
+    width: 4rem !important;
+}
+
+.video-negozio{
+    height: auto !important;
+}
+
+.centraggio{
+    height: 100%;
+}
+
+.foto-galleria{
+    height: 45rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .mobile-height{
+        height: 10rem;
+    }
+}
